@@ -1,0 +1,19 @@
+This project is licensed under the following terms:
+
+1. GNU Affero General Public License v3.0 or later (AGPL-3+)
+   This is the primary license. See LICENSE-AGPL.txt for details.
+
+2. GNU General Public License v3.0 or later (GPL-3+)
+   See LICENSE-GPL.txt for details.
+
+3. European Union Public License v1.2 (EUPL-1.2)
+   See LICENSE-EUPL.txt for details.
+
+4. Open Software License v3.0 (OSL-3.0)
+   See LICENSE-OSL.txt for details.
+
+**Conditional Licenses**:  
+- MIT License: Only granted under explicit written permission.  
+- BSD License: Only granted under explicit written permission.  
+
+If conflicts arise, AGPL-3+ takes precedence.

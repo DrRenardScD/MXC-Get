@@ -1,0 +1,15 @@
+{
+  "debug_value": "verbose", 
+  "debug_file": "debug.log",
+  "url_log": true,
+  "url_log_type": "CSV",
+  "dl_loc": "downloads",
+  "mime_types": {
+    "image/jpeg": "jpg",
+    "image/png": "png",
+    "image/gif": "gif",
+    "application/pdf": "pdf",
+    "text/plain": "txt"
+  },
+  "output_naming": "media_id+filename" 
+}

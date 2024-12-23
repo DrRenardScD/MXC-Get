@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<license>
+  <project>MXC Get</project>
+  <primaryLicense>
+    <name>GNU Affero General Public License</name>
+    <version>3</version>
+    <variant>or later</variant>
+  </primaryLicense>
+  <fallbackLicenses>
+    <license>
+      <name>European Union Public License</name>
+      <version>1.2</version>
+      <variant>or later</variant>
+    </license>
+    <license>
+      <name>Open Software License</name>
+      <version>3.0</version>
+      <variant>or later</variant>
+    </license>
+    <license>
+      <name>GNU General Public License</name>
+      <version>3</version>
+      <variant>or later</variant>
+    </license>
+  </fallbackLicenses>
+  <conditions>
+    <condition>
+      <type>SaaS/Network Use</type>
+      <requirement>Follow AGPL-3+</requirement>
+    </condition>
+  </conditions>
+  <contact>
+    <email>drrenardscd@tutanota.de</email>
+    <github>https://github.com/DrRenardScD</github>
+  </contact>
+</license>
